@@ -1,0 +1,51 @@
+/* CSS */
+
+/* Changes header background color */
+header {
+    background-color: #333333
+}
+
+/* Fills the background and sets font style */
+body {
+    padding: 0;
+    font-style: "Georgia",Times New Roman,Times,serif;
+}
+   
+/* Sets size and margins of content */
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+/* Formats <h1> in the header */
+h1 {
+    color: #eee;
+    font-size: 28px;
+    text-align: center;
+    }
+
+    /* Formats all the <h2> */
+h2 {
+    font-size: 24px;
+    padding-left: 10px;
+ }
+
+ /* Formats all the ID selectors */
+ #main-bio {
+    float: left;
+    width: 70%;
+}
+
+ #bio-image {
+    float: left;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding-right: 10px;
+}
+
+#contact-info {
+    float: left;
+    width: 30%;
+}
+
